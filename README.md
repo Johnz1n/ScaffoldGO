@@ -10,7 +10,7 @@
 
    `$ cp .env.example .env`
 
- 2. Rodar scaffold
+ 3. Rodar scaffold
 
    `$ go run $dbSchema $dbTable`
  
