@@ -1,0 +1,11 @@
+/vendor
+/.vendor-new
+./vscode
+*.exe
+*.models
+*.requests
+*.resources
+.env
+models-scaffold
+gin-bin.exe~
+gin-bin
